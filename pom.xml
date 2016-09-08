@@ -34,7 +34,52 @@
             <id>nigel.charman.nz</id>
             <email>nigel.charman.nz@gmail.com</email>
             <roles>
-                <role>Project owner</role>
+                <role>Project Owner</role>
+            </roles>
+        </developer>
+
+        <developer>
+            <name>David B.</name>
+            <id>david.barnett</id>
+            <email>barnetdavi@ecs.vuw.ac.nz</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+
+        <developer>
+            <name>Andrew D.</name>
+            <id>daly.andr</id>
+            <email>dalyandr@ecs.vuw.ac.nz</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+
+        <developer>
+            <name>Prashant B.</name>
+            <id>bhikhu.pras</id>
+            <email>bhikhupras@ecs.vuw.ac.nz</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+
+        <developer>
+            <name>Steven T.</name>
+            <id>turrel.stev</id>
+            <email>turrelstev@ecs.vuw.ac.nz</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+
+        <developer>
+            <name>Andrew M.</name>
+            <id>mooney.andr</id>
+            <email>mooneyandr@ecs.vuw.ac.nz</email>
+            <roles>
+                <role>Developer</role>
             </roles>
         </developer>
     </developers>
